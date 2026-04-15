@@ -23,15 +23,15 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           :'/c/Users/ASUS VIVOBOOK/Desktop/avt.jpg'
+  avatar           : '/c/Users/ASUS VIVOBOOK/Desktop/avt.jpg'
   name             : Lê Văn Hoàng
   pronouns         : # example: "she/her"  
 
-  bio              :IOT Student
+  bio              : IOT Student
   location         : Ho Chi Minh,VietNam
   employer         : "Red Brick University"
-  uri              :https://hoanghoang301205-max.github.io
-  email            :hoanghoang301205@gmail.com
+  uri              : https://hoanghoang301205-max.github.io
+  email            : hoanghoang301205@gmail.com
 
   # Academic websites
   academia         : # URL
