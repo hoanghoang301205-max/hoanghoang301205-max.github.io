@@ -17,4 +17,4 @@ Dự án này sử dụng vi điều khiển **Arduino Nano** để đọc dữ 
 
 ### 🔗 Mã nguồn dự án
 Toàn bộ mã nguồn firmware của dự án được lưu trữ và quản lý công khai trên GitHub:
-👉 **[Xem Repository Arduino_LM35 tại đây](https://github.com/hoanghoang301205-max/)**
+👉 **[Xem Repository Arduino_LM35 tại đây](https://github.com/hoanghoang301205-max/Arduino_LM35_TempMonitor)**
