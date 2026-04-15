@@ -1,9 +1,34 @@
-title: Portfolio của Lê Văn Hoàng
-name: Lê Văn Hoàng
-description: Sinh viên ngành IoT - PTIT
-bio: IoT Student
-location: Ho Chi Minh City, Vietnam
-email: hoanghoang301205@gmail.com
-github: hoanghoang301205-max
+# Thông tin chung về trang web
+title: "Portfolio của Lê Văn Hoàng"
+name: "Lê Văn Hoàng"
+description: "Sinh viên ngành IoT tại Học viện Công nghệ Bưu chính Viễn thông (PTIT)"
 url: "https://hoanghoang301205-max.github.io"
-avatar: "avt.jpg"
+repository: "hoanghoang301205-max/hoanghoang301205-max.github.io"
+
+# Cấu hình Ảnh đại diện (Avatar)
+# Nếu em để file avt.jpg ở thư mục gốc thì dùng đường dẫn này:
+avatar: "/avt.jpg"
+
+# Cấu hình Sidebar (Cột bên trái)
+author:
+  name: "Lê Văn Hoàng"
+  bio: "IoT Student | PTIT"
+  location: "Ho Chi Minh City, Vietnam"
+  avatar: "/avt.jpg"
+  links:
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/hoanghoang301205-max"
+
+# Kích hoạt các bộ sưu tập (Portfolio, Publications...)
+collections:
+  portfolio:
+    output: true
+    permalink: /:collection/:path/
+  publications:
+    output: true
+    permalink: /:collection/:path/
+
+# Cấu hình Markdown
+markdown: kramdown
+highlighter: rouge
